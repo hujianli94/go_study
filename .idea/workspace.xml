@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96381e5a-f2c4-41e8-848d-c3af2b885dfe" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day3/01.func/10.panic-recover/main1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/01.func/11.练习题/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/01.struct/01.类型定义和类型别名的区别/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/01.struct/02.结构体/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/01.struct/03.匿名结构体/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/01.struct/04.指针类型的结构体/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/01.struct/05.取结构体的地址实例化/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/01.struct/05.取结构体的地址实例化/main2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/01.struct/06.构造函数/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/01.struct/07.方法和接收者/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/02.point/01.指针取值/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/02.point/02.指针传值/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/02.point/03.new-make/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/01.func/panic-recover/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day3/01.func/10.panic-recover/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +61,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -62,29 +70,11 @@
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build main.go">
-    <configuration name="go build github.com/go_study/day3/01.func/11.练习题" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go_study" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/day3/01.func/11.练习题/main.go" />
-      <package value="github.com/go_study/day3/01.func/11.练习题" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build github.com/go_study/day3/01.func/panic-recover" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go_study" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/day3/01.func/panic-recover/main.go" />
-      <package value="github.com/go_study/day3/01.func/panic-recover" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_study" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/day3/01.func/panic-recover/main1.go" />
+      <filePath value="$PROJECT_DIR$/day04/01.struct/05.取结构体的地址实例化/main2.go" />
       <package value="github.com/go_study" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -93,7 +83,25 @@
       <module name="go_study" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/day3/01.func/07.defer经典案例/main.go" />
+      <filePath value="$PROJECT_DIR$/day04/01.struct/06.构造函数/main.go" />
+      <package value="github.com/go_study" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_study" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/day04/01.struct/04.指针类型的结构体/main.go" />
+      <package value="github.com/go_study" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_study" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/day04/01.struct/05.取结构体的地址实例化/main.go" />
       <package value="github.com/go_study" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -102,7 +110,7 @@
       <module name="go_study" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/day3/01.func/11.练习题/main.go" />
+      <filePath value="$PROJECT_DIR$/day04/01.struct/07.方法和接收者/main.go" />
       <package value="github.com/go_study" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -110,10 +118,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build github.com/go_study/day3/01.func/11.练习题" />
-        <item itemvalue="Go Build.go build main1.go" />
-        <item itemvalue="Go Build.go build github.com/go_study/day3/01.func/panic-recover" />
         <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main2.go" />
+        <item itemvalue="Go Build.go build main.go (4)" />
+        <item itemvalue="Go Build.go build main.go (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -134,13 +142,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2020-1-19 first-commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-1-19 first-commit" />
+    <MESSAGE value="2020-1-19 second-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-1-19 second-commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="332" y="0" key="CommitChangelistDialog2" timestamp="1579419093703">
+    <state x="499" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1579499540147">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="332" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579419093703" />
+    <state x="499" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579499540147" />
+    <state x="332" y="0" key="CommitChangelistDialog2" timestamp="1579423652428">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="332" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579423652428" />
     <state x="577" y="426" width="273" height="285" key="Github.ShareDialog" timestamp="1579340099617">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -149,34 +162,35 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="472" y="91" key="Github.UntrackedFilesDialog/0.0.1440.920@0.0.1440.920" timestamp="1579340106000" />
-    <state width="1397" height="234" key="GridCell.Tab.0.bottom" timestamp="1579423148003">
+    <state width="1397" height="197" key="GridCell.Tab.0.bottom" timestamp="1579501639204">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="234" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579423148003" />
+    <state width="1397" height="197" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579501639204" />
     <state width="1397" height="241" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1579339809345" />
-    <state width="1397" height="234" key="GridCell.Tab.0.center" timestamp="1579423148003">
+    <state width="1397" height="197" key="GridCell.Tab.0.center" timestamp="1579501639204">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="234" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579423148003" />
+    <state width="1397" height="197" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579501639204" />
     <state width="1397" height="241" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1579339809345" />
-    <state width="1397" height="234" key="GridCell.Tab.0.left" timestamp="1579423148003">
+    <state width="1397" height="197" key="GridCell.Tab.0.left" timestamp="1579501639204">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="234" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579423148003" />
+    <state width="1397" height="197" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579501639204" />
     <state width="1397" height="241" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1579339809345" />
-    <state width="1397" height="234" key="GridCell.Tab.0.right" timestamp="1579423148003">
+    <state width="1397" height="197" key="GridCell.Tab.0.right" timestamp="1579501639204">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="234" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579423148003" />
+    <state width="1397" height="197" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579501639204" />
     <state width="1397" height="241" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1579339809345" />
-    <state x="222" y="103" key="SettingsEditor" timestamp="1579339928825">
+    <state x="222" y="103" key="SettingsEditor" timestamp="1579499936245">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
+    <state x="222" y="103" key="SettingsEditor/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579499936245" />
     <state x="222" y="103" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1579339928825" />
-    <state x="295" y="197" key="Vcs.Push.Dialog.v2" timestamp="1579419097873">
+    <state x="295" y="197" key="Vcs.Push.Dialog.v2" timestamp="1579423655225">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="295" y="197" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579419097873" />
+    <state x="295" y="197" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579423655225" />
     <state x="295" y="197" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1579328076639" />
   </component>
 </project>
