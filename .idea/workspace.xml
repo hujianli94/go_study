@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96381e5a-f2c4-41e8-848d-c3af2b885dfe" name="默认更改列表" comment="2020-1-20 first-commit">
-      <change afterPath="$PROJECT_DIR$/day05/01.interface/01.sample1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/01.interface/02.sample2/main.go" afterDir="false" />
+    <list default="true" id="96381e5a-f2c4-41e8-848d-c3af2b885dfe" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/01.struct/07.方法和接收者/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/01.struct/07.方法和接收者/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/01.func/10.panic-recover/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day3/01.func/10.panic-recover/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,18 +136,19 @@
     <MESSAGE value="2020-1-19 first-commit" />
     <MESSAGE value="2020-1-19 second-commit" />
     <MESSAGE value="2020-1-20 first-commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-1-20 first-commit" />
+    <MESSAGE value="2020-1-29 first-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-1-29 first-commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1579499540147">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="499" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579499540147" />
-    <state x="332" y="0" key="CommitChangelistDialog2" timestamp="1580281041294">
+    <state x="332" y="0" key="CommitChangelistDialog2" timestamp="1580305002546">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="332" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579501668690" />
-    <state x="332" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1580281041294" />
+    <state x="332" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1580305002546" />
     <state x="577" y="426" width="273" height="285" key="Github.ShareDialog" timestamp="1579340099617">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -189,10 +186,14 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="576" y="370" key="VCS.ChangelistChooser/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579514192008" />
-    <state x="295" y="197" key="Vcs.Push.Dialog.v2" timestamp="1579501672009">
+    <state x="295" y="197" key="Vcs.Push.Dialog.v2" timestamp="1580477052143">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="295" y="197" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.1440.860@0.0.1440.920" timestamp="1579501672009" />
-    <state x="295" y="197" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1579328076639" />
+    <state x="295" y="197" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1580477052143" />
+    <state x="516" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580305016482">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="516" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.920@0.0.1440.920" timestamp="1580305016482" />
   </component>
 </project>

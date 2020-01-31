@@ -24,7 +24,7 @@ panic: panic in B
 
 goroutine 1 [running]:
 main.funcB(...)
-	D:/go_studay/go_path/src/github.com/go_study/day3/01.func/10.panic-recover/reg.go:9
+	D:/go_studay/go_path/src/github.com/go_study/day03/01.func/10.panic-recover/reg.go:9
 main.main()
-	D:/go_studay/go_path/src/github.com/go_study/day3/01.func/10.panic-recover/reg.go:18 +0x9d
+	D:/go_studay/go_path/src/github.com/go_study/day03/01.func/10.panic-recover/reg.go:18 +0x9d
 */
